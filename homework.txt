@@ -1,0 +1,3 @@
+
+
+Jo'natilgan rasmni 3x4 formatda raznerini o'zgartrib qaytaruvchi bot yozilsin
